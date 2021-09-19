@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    color: black;
+
+}
+
+#main {
+    display:grid;
+    grid-template-columns: auto 1fr;
+    gap: 16px
+}
