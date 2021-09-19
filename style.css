@@ -1,6 +1,6 @@
 body {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: red;
 
 }
 
@@ -8,4 +8,8 @@ body {
     display:grid;
     grid-template-columns: auto 1fr;
     gap: 16px
+}
+#characters {
+    color: black;
+    background-color: blueviolet;
 }
